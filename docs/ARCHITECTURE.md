@@ -20,3 +20,7 @@
 - main: stabiele versie
 - feature branches per issue
 - Merge via GitHub
+
+## Auth
+- Firebase Authentication
+- Email + password
