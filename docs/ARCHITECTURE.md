@@ -1,6 +1,15 @@
-# App Architecture (draft)
+# Architecture (draft)
 
-- Frontend: Web / PWA
-- Backend: API (Docker)
-- Database: PostgreSQL
-- Video: Cloud storage + CDN
+## Frontend
+- Web app (PWA)
+- Framework: TBD
+
+## Backend
+- API
+- Dockerized
+
+## Auth
+- External provider (TBD)
+
+## Database
+- TBD
