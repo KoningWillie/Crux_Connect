@@ -1,0 +1,9 @@
+# Commit messages
+
+Format:
+<Milestone>: korte beschrijving
+
+Voorbeelden:
+- M0: project structure
+- M1: add login form
+- M3: video upload endpoint
